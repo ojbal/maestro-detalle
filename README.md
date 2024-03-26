@@ -1,0 +1,2 @@
+# maestro-detalle
+boiler-plate
